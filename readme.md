@@ -26,6 +26,15 @@ Clonar el repositorio:
 git clone https://github.com/Jonathan-Meixueiro/video-club.git
 ```
 
+```bash
+git clone https://gitlab.com/a240694/video-club.git
+```
+
+```bash
+git clone https://jonamx13-admin@bitbucket.org/jonamx13/video-club.git
+```
+
+
 Ingresar a la carpeta del proyecto:
 ```bash
 cd video-club
